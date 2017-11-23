@@ -1,0 +1,8 @@
+Host CAEN
+	HostName login.engin.umich.edu
+	User zackchen
+	Compression yes
+Host gitLab
+	HostName gitlab.eecs.umich.edu
+	User zackchen
+	IdentityFile ~/.ssh/zackchen_rsa
